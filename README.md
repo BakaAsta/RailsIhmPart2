@@ -1,8 +1,9 @@
-Lors d'un SAE, nous avons eu pour objectif de coder un jeu de plateau nommé Les aventuriers du Rails sous format web.
+Pour poursuivre la partie 1 de ce jeu de plateau nommé Les Aventuriers du Rails, nous avons eu pour objectif d'optimiser le jeu en modélisant la base du plateau sous forme de graphe.
 
 Voici le résultat.
 
-Si vous souhaitez jouez, je vous invite a clone le projet depuis votre IDE. Vous devez ensuite ouvrir le bon fichier web/index.html et lancez le programme src/main/java/fr.umontpellier.fr/gui/GameServer.
+Si vous souhaitez jouer, je vous invite à cloner le projet depuis votre IDE. Le format reste inchangé par rapport à la Partie 1.
+Vous devez ensuite ouvrir le bon fichier web/index.html et lancer le programme src/main/java/fr.umontpellier.fr/gui/GameServer.
 
 Le plus dur est fait il ne reste plus qu'a vous profitez
 
